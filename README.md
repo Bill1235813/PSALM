@@ -53,12 +53,12 @@ psalm
  ```
 
 ## Citations
-Please cite [this pre-print](https://arxiv.org/abs/2304.11477) if you find this repo useful.
+Please cite [this paper](https://arxiv.org/abs/2304.11477) if you find this repo useful.
 ```
 @article{zhu2024languagemodelsinferaction,
       title={Language Models can Infer Action Semantics for Symbolic Planners from Environment Feedback}, 
       author={Wang Zhu and Ishika Singh and Robin Jia and Jesse Thomason},
-      journal={arXiv preprint arXiv:2406.02791},
+      booktitle={Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)}
       year={2024}
 }
 ```
