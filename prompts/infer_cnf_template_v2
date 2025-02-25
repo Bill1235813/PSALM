@@ -1,0 +1,21 @@
+[[domain_nl]]
+
+The current guess of the preconditions and effects for actions are:
+[[action_description]]
+
+Please infer missing or correct wrong [[postfix]] for action [[action]] in CNF, given the PDDL types and predicates:
+[[domain_type_pred]]
+
+To help you predict the [[postfix]], we provide a running example in this domain. For the problem:
+[[task_nl]]
+
+The initial state of the task in PDDL is:
+[[task_init]]
+
+A plan (list of actions) runs in the simulator like:
+[[trajectory]]
+
+Please use the information from the simulator output carefully, and output the CNF in a clean format of "(and (...) (...))", where each parentheses contains some predicates.
+Note that you should not specify types, e.g., "- object", in preconditions and effects.
+
+The [[postfix]] for [[action]] are:

@@ -1,0 +1,27 @@
+[[domain_nl]]
+
+The environment is defined with the Planning Domain Definition Language (PDDL) as below, while the precondtions and postconditions of actions are unknown.
+[[domain_acthead_pddl]]
+
+An example planning problem is:
+[[context_nl]]
+
+which means the problem file is:
+[[context_pddl]]
+
+A plan for the example problem is:
+[[context_sol]]
+
+Now I have a new planning problem and its description. Can you provide a executable plan, in the way of a sequence of behaviors, to solve the problem?
+
+The new planning problem is:
+[[task_nl]]
+
+which means the problem file is:
+[[task_pddl]]
+
+Please provide the list of actions in the FORMAT as described in the example, i.e., each action must start with "(" and end with ")", with the action name the corresponding parameters in the middle.
+Please output a clean, complete list of actions, including the option and the starting actions you choose, to solve the problem.
+Don't use the word repeat in the response.
+
+A plan for the new planning problem is:

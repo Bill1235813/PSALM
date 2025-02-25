@@ -1,0 +1,31 @@
+[[domain_nl]]
+
+The environment is defined with the Planning Domain Definition Language (PDDL) as
+[[domain_type_pred]]
+
+Here are the actions you can perform in the environment:
+[[action_description]]
+
+An example planning problem is:
+[[context_nl]]
+
+which means the initial state is:
+[[context_init]]
+
+A plan for the example problem is:
+[[context_sol]]
+
+Now I have a new planning problem and its description. Can you provide a executable plan, in the way of a sequence of behaviors, to solve the problem?
+
+The new planning problem is:
+[[task_nl]]
+
+which means the initial state is:
+[[task_init]]
+
+[[cand_action_list]][[failed_traj]]Please provide the list of actions in the format as described in the example.
+Feel free to use try other actions not in the example when their preconditions are satisfied.
+Please output a clean, complete list of actions, including the option and the starting actions you choose, to solve the problem.
+Don't use the word repeat in the response.
+
+A plan for the new planning problem is:

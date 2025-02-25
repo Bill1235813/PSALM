@@ -1,0 +1,23 @@
+[[domain_nl]]
+
+The environment is defined with the PDDL types and predicates as below:
+[[domain_type_pred]]
+
+Here are the actions you can do:
+[[action_description]]
+
+An example planning problem is:
+[[context_nl]]
+
+A plan for the example problem is:
+[[context_sol]]
+
+Now I have a new planning problem and its description. Can you provide an plan, in the way of a sequence of behaviors, to solve the problem?
+You must take some steps to explore those actions with unspecified preconditions or effects.
+Please provide the list of actions in the format as described above.
+Please output a clean, complete list of actions to solve the problem. Don't use the word repeat in the response.
+
+The new planning problem is:
+[[task_nl]]
+
+A plan for the new planning problem is:

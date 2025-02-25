@@ -1,0 +1,27 @@
+[[domain_nl]]
+
+The environment is defined with the PDDL types and predicates as below:
+
+[[domain_type_pred]]
+
+Here are the actions you can do:
+
+[[action_description]]
+
+Now I have a new planning problem and its description. Can you provide the next action to solve the problem?
+You can take some steps to explore those actions with unspecified preconditions or effects.
+Please provide the actions in the format as described above.
+Don't use the word repeat in the response.
+
+The new planning problem is:
+[[task_nl]]
+
+the previous actions are:
+[[prev_act]]
+
+the current state is:
+[[task_init]]
+
+Please use the current state to help you check if the preconditions are satisfied.
+
+A plan for the new planning problem is:

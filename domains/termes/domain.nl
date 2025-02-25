@@ -1,0 +1,1 @@
+You control a robot that can take the following actions to build complex structures.
